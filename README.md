@@ -1,2 +1,3 @@
-# sendmail_scripts
- scripts of the linux sendmail command
+# file_attach_sendmail.sh
+sendmailでファイルを添付する
+
